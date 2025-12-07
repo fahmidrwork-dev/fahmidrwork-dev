@@ -12,7 +12,7 @@ I completed a game development internship program under **GameLab Indonesia (par
 ✔ Trained under real studio workflows  
 ✔ Learned rapid prototyping & teamwork expectations in game studios  
 
-🔗 Portfolio Repository: *(ongoing)*  
+🔗 Portfolio Repository:   
 -  https://github.com/fahmidrwork-dev/Construct-Gamelab-Project/blob/1271db48420e4dfc0576861d0ad7136e9c11d8b6/README.md
 -  https://github.com/fahmidrwork-dev/Javascript-Gamelab-Project/blob/main/README.md
 
