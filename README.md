@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Hi! I’m Fahmi — a passionate game developer from Indonesia who believes games should make people smile and feel something real.  
+🌟 Hi! I’m Fahmi Dzaky Ramadhan — a passionate game developer from Indonesia who believes games should make people smile and feel something real.  
 🎮 Gameplay > graphics — I focus on coding, creative mechanics, and completing small but fun projects.  
 🧠 Constantly improving my skills in Unity (2D & 3D), combat mechanics, AI Navigation, looting systems, UI, and more.
 
