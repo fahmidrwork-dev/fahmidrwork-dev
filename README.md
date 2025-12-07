@@ -35,6 +35,9 @@ Deadlines? Themes? Constraints? That’s where I shine.
 - Pixel-art friendly workflows
 - Gameplay systems design & prototyping
 - Git/GitHub for version control
+- Windows OS knowledge
+- Networking basics
+- PC & Laptop diagnostics + repair
 
 ---
 
