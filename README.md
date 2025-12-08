@@ -33,8 +33,10 @@ During my internship at **Gamelab Indonesia (Educa Studio)**, I built 30+ mini g
 - Timers, game states, and simple AI  
 - Event-based programming foundation
 
-📌 Construct project collection:  
-➡️ *https://github.com/fahmidrwork-dev/Construct-Gamelab-Project*
+📌 project collection:  
+- *https://github.com/fahmidrwork-dev/Construct-Gamelab-Project*
+- *https://github.com/fahmidrwork-dev/Javascript-Gamelab-Project*
+- *https://github.com/fahmidrwork-dev/Three.js-Gamelab-Project*
 
 (Other engines: prototypes are currently being reorganized before upload)
 
