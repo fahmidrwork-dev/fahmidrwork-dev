@@ -55,6 +55,15 @@ During my internship at **Gamelab Indonesia (Educa Studio)**, I built 30+ mini g
 
 ---
 
+📜 Certifications
+- Instalasi & Konfigurasi Jaringan Komputer — Telkom (Certification)
+- Excel Design Certification
+- Game Development Training Certifications — Gamelab Indonesia (Educa Studio)
+
+> Strengthening both my tech repair and game dev skills.
+
+---
+
 ## 💻 Tech Stack
 
 ### 🕹 Game Development
