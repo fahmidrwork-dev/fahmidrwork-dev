@@ -93,13 +93,6 @@ During my internship at **Gamelab Indonesia (Educa Studio)**, I built 30+ mini g
 
 ---
 
-## 📌 Current Focus
-🔹 Improve Unity 2D combat and NPC AI  
-🔹 Publish at least **2 complete games** this year  
-🔹 Build a stronger technical portfolio on GitHub  
-
----
-
 > “Small steps, big progress. Keep building.”
 
 ---
